@@ -42,7 +42,7 @@ Steps; clone the repository if it is an external project, create a new branch an
 Forking creates a copy of a repository under your GitHub account and helps one contribute without affecting the original project while cloning downloads a repository from GitHub to your local machine for personal development. Forking is particularly useful when contributing to an open-source project, experimenting without risks and maintain a separate copy
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-Issues and project boards on GitHub are important in tracking bugs, managing tasks and enhancing collaboration. Used to track bugs by allowing developers to log and assign issues for efficient debugging. Used to managing tasks by allowing teams to organize task using template boards. Used to improve project organization by enhancing collaborations where members can discuss and resolve issues directly within GitHub
+Issues and project boards on GitHub are important in tracking bugs, managing tasks and enhancing collaboration. Used to track bugs by allowing developers to log and assign issues for efficient debugging. Used to managing tasks by allowing teams to organize task using template boards. Used to improve project organization by enhancing collaborations where members can discuss and resolve issues directly within GitHub.
 Example; a development team can use issues to track reported bugs and project board to plan and monitor progress.
 
 
